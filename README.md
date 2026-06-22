@@ -4,7 +4,7 @@ Hello, it's my first project i really wanted to make what contains both hardware
 * It will have a neko(cat) look
 * Two rotary encoder switches(volume changer and ???)
 # First look idea
-<img src='https://imgur.com/mJh6yk5'>
+<img src='https://i.imgur.com/mJh6yk5.png'>
 
 # Overall hackpad
 
